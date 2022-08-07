@@ -14,5 +14,5 @@ function sumAllNumberAnArray(numbers) {
 
 const myNumber = [45, 89, 65, 32, 75, 20, 12, 32, 56, 95];
 const getResultOfSum = sumAllNumberAnArray(myNumber);
-console.log(getResultOfSum);
+console.log(getResultOfSum); 
 
