@@ -1,4 +1,4 @@
-// Preactise Problem-3
+// Practice Problem-3
 
 function getSumOfAllNumber(numbers) {
     let sum = 1;
